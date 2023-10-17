@@ -1,0 +1,15 @@
+C:\Users\black\PycharmProjects\Assign13p95\venv\Scripts\python.exe C:\Users\black\PycharmProjects\Assign13p95\main.py 
+[28, 41, 9, 89, 37, 24, 30, 86]
+Fail
+
+Process finished with exit code 0
+
+
+C:\Users\black\PycharmProjects\Assign13p95\venv\Scripts\python.exe C:\Users\black\PycharmProjects\Assign13p95\main.py 
+[14, 19, 21, 22, 62, 69, 76, 82, 90]
+Pass
+
+Process finished with exit code 0
+
+
+Run in generic python environment 
