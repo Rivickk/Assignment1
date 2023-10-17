@@ -1,0 +1,12 @@
+C:\Users\black\PycharmProjects\Assign13p95\venv\Scripts\python.exe C:\Users\black\PycharmProjects\Assign13p95\5.py 
+Pass
+Pass
+Pass
+Pass
+Pass
+Pass
+Pass
+Character: 1
+Fail
+
+Process finished with exit code 0
